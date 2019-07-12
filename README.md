@@ -1,4 +1,5 @@
 [![Codemagic build status](https://api.codemagic.io/apps/5d2900dedb95112ead3bbecf/5d2900dedb95112ead3bbece/status_badge.svg)](https://codemagic.io/apps/5d2900dedb95112ead3bbecf/5d2900dedb95112ead3bbece/latest_build)
+[![License](https://img.shields.io/github/license/Crazy-Marvin/Gassi.svg?style=flat)](LICENSE.txt)
 [![Last commit](https://img.shields.io/github/last-commit/Crazy-Marvin/Gassi.svg?style=flat)](https://github.com/Crazy-Marvin/Gassi/commits)
 [![Releases](https://img.shields.io/github/downloads/Crazy-Marvin/Gassi/total.svg?style=flat)](https://github.com/Crazy-Marvin/Gassi/releases)
 [![Latest tag](https://img.shields.io/github/tag/Crazy-Marvin/Gassi.svg?style=flat)](https://github.com/Crazy-Marvin/Gassi/tags)
