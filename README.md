@@ -1,5 +1,5 @@
 [![Codemagic build status](https://api.codemagic.io/apps/5d2900dedb95112ead3bbecf/5d2900dedb95112ead3bbece/status_badge.svg)](https://codemagic.io/apps/5d2900dedb95112ead3bbecf/5d2900dedb95112ead3bbece/latest_build)
-[![License](https://img.shields.io/github/license/Crazy-Marvin/Gassi.svg?style=flat)](LICENSE.txt)
+[![License](https://img.shields.io/github/license/Crazy-Marvin/Gassi.svg?style=flat)](LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/Crazy-Marvin/Gassi.svg?style=flat)](https://github.com/Crazy-Marvin/Gassi/commits)
 [![Releases](https://img.shields.io/github/downloads/Crazy-Marvin/Gassi/total.svg?style=flat)](https://github.com/Crazy-Marvin/Gassi/releases)
 [![Latest tag](https://img.shields.io/github/tag/Crazy-Marvin/Gassi.svg?style=flat)](https://github.com/Crazy-Marvin/Gassi/tags)
@@ -15,6 +15,24 @@ Crowdin
 # Gassi
 
 Track Pee & Poop Of Your Dog
+
+_TBD_
+
+# Roadmap
+
+_TBD_
+
+# Support
+
+Please feel free to drop an email to [marvin@poopjournal.rocks](mailto:marvin@poopjournal.rocks).
+
+# Contributing
+
+Please feel free to read [`CONTRIBUTING.md`](https://github.com/Crazy-Marvin/Gassi/blob/master/CONTRIBUTING.md) and contribute. 👍
+
+# License
+
+[MIT](https://github.com/Crazy-Marvin/Gassi/blob/development/LICENSE)
 
 # Acknowledgments
 
