@@ -13,3 +13,13 @@ Crowdin
 [![Desktop](https://img.shields.io/badge/desktop-Linux%20%7C%20macOS%20%7C%20Windows-green.svg)](https://github.com/Crazy-Marvin/Gassi/releases)
 
 # Gassi
+
+Track Pee & Poop Of Your Dog
+
+# Acknowledgments
+
+* [JetBrains](https://www.jetbrains.com/) for sponsoring one [IntelliJ IDEA Ulitmate](https://www.jetbrains.com/idea/) license
+* [Firebase](https://firebase.google.com/) for their great tools, free plan and implementation support
+* [updown.io](https://updown.io/), [UptimeRobot](https://uptimerobot.com/), [PingPing](https://pingping.io/) & [Robodash](https://www.robodash.app) for uptime monitoring
+* [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/) teams at [Google](https://about.google/)
+* Everyone else
