@@ -39,6 +39,7 @@ Please feel free to read [`CONTRIBUTING.md`](https://github.com/Crazy-Marvin/Gas
 * [JetBrains](https://www.jetbrains.com/) for sponsoring one [IntelliJ IDEA Ulitmate](https://www.jetbrains.com/idea/) license
 * [Firebase](https://firebase.google.com/) for their great tools, free plan and implementation support
 * [Codemagic](https://codemagic.io/start/)/[Testmagic](https://testmagic.io/) & [Travis](https://travis-ci.org/) for CI/CD
+* [Crowdin](https://crowdin.com/project/gassi/) for supporting translation of the app into many languages
 * [updown.io](https://updown.io/), [UptimeRobot](https://uptimerobot.com/), [PingPing](https://pingping.io/) & [Robodash](https://www.robodash.app) for uptime monitoring
 * [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/) teams at [Google](https://about.google/)
 * Everyone else
