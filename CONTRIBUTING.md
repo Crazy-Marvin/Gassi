@@ -111,7 +111,8 @@ Before creating enhancement suggestions, please check this list as you might fin
 - *Optional*: Install [JetBrains IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) using JetBrains Toolbox, [VS Code](https://code.visualstudio.com/) or any other IDE/text editor
 
 The final result should look like that:
-[]
+
+![flutterdoctor](https://user-images.githubusercontent.com/15004217/61824197-b1d18280-ae5d-11e9-9824-ec84e473d60e.png)
 
 More information can be obtained from [https://flutter.dev/docs/get-started/install/](https://flutter.dev/docs/get-started/install/).
 
